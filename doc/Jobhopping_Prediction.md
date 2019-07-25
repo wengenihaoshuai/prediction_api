@@ -75,7 +75,7 @@ An online version of method `predict`
 
 ##### org
 
-The scholar's affiliation name
+The scholar's affiliation name   
 
 #### Return value
 
